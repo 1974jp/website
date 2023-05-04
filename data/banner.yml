@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Fun group of 1974"
+subtitle: |
+  1974年生まれの仲間たちで集う同世代Communityです。
+content : |
+  会発足の性質上 <strong>同世代間に生まれる共感</strong> を大切にしておりますので年代の近い方々との交流をメインにしています。また近年は <strong>働き盛りであり責任もあるお立場</strong> になられている方の多い年代になりますため、基本的に活動は行っておりません。
+button:
+  label : "Get Started"
+  link : "#first"
+image : "images/banner.jpg"
+
