@@ -14,7 +14,7 @@ items:
     style : "solid style2 major fa-save"
     
   # feature item loop
-  - name : "Discode"
+  - name : "Discord"
     content : "まだ開設も運用もしていませんが、音声・映像によるコミュニケーションも必要かと思い何らか検討しています。"
     style : "solid style2 major fa-chart-bar"
     
