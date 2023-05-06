@@ -20,7 +20,7 @@ jobs:
           # extended: true  # Enable scss
 
       - name: Build
-        run: hugo --minify
+        run: hugo
 
       - name: Generate ssh key
         run: echo "$SSH_PRIVATE_KEY" > ${{ runner.temp }}/key && chmod 600 ${{ runner.temp }}/key
