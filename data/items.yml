@@ -6,17 +6,17 @@ items:
   # feature item loop
   - name : "IRC"
     content : "Internet Relay Chat のチャンネル #1974:*.jp を開設しています。過疎っててすみません。"
-    style : "style2 major fa-gem"
+    style : "style2 fa-comments"
 
   # feature item loop
   - name : "Slack"
     content : "1974jp.slack.com を開設しています、が、誰をどの様に招待するか検討中で準備中状態です。"
-    style : "solid style2 major fa-save"
+    style : "style2 brands fa-slack"
     
   # feature item loop
   - name : "Discord"
     content : "まだ開設も運用もしていませんが、音声・映像によるコミュニケーションも必要かと思い何らか検討しています。"
-    style : "solid style2 major fa-chart-bar"
+    style : "style2 brands fa-discord"
     
 #  # feature item loop
 #  - name : "Four"
