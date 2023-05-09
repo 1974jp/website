@@ -26,6 +26,7 @@ publishDir = "public"
 
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 # googleAnalytics = "your-google-analytics-id"
+googleAnalytics = "G-M2LFWHN3VD"
 
 ## -----------------------------------------------
 ## Site Parameters
